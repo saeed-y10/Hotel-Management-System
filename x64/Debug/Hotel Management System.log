@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\saeed\source\repos\Hotel Management System\clsUser.h(238,2): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\saeed\source\repos\Hotel Management System\clsUser.h(18): message : see declaration of 'clsUser::stLoginRegisterRecord'
+  Hotel Management System.vcxproj -> C:\Users\saeed\source\repos\Hotel Management System\x64\Debug\Hotel Management System.exe
